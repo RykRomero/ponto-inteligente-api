@@ -1,0 +1,9 @@
+language: java
+jdk:
+  - oraclejdk8
+<<<<<<< HEAD:.travis.yml.txt
+
+before_install:
+  - chmod +x mvnw
+=======
+>>>>>>> c987419d62d0dcb89d9a4c041de4805206dd1532:.travis.yml
